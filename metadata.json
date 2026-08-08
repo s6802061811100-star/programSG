@@ -1,0 +1,6 @@
+{
+  "name": "School & Government Inventory Requisition System",
+  "description": "ระบบเบิก-จ่ายพัสดุสำหรับโรงเรียนและหน่วยงานภาครัฐ เชื่อมต่อ Google Sheets พร้อมระบบสิทธิ์ผู้ใช้งานและ Audit Log",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
